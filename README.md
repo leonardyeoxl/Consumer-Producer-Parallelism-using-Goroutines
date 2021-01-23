@@ -1,4 +1,4 @@
-# Consumer-Producer-Parallelism-using-Goroutines
+# Consumer Producer Parallelism using Goroutines
 
 ![Consumer-Producer-Parallelism-using-Goroutines](./documentation/consumer_producer_parrallelism_goroutines.jpg)
 
